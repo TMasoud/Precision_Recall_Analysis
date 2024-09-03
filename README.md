@@ -11,6 +11,6 @@ The code reads a CSV file containing "Label" and "Probability" columns from a cl
 
 
 The computed threshold can be used for further analysis of any binary classifier performance.
-# Output
+## Output
 
 <img src="PR_Thresholding.png" alt="An exaple result of the code" width="600"/>
