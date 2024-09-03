@@ -1,4 +1,4 @@
-# Precision_Recall_Analysis
+# Threshold from Precision-Recall curves
 This repository is to calculate the optimal threshold from Precision-Recall curves.
 The code reads a CSV file containing "Label" and "Probability" columns from a classifier output. The Probability column has a pair of scores for each given image like below:
 
